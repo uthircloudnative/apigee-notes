@@ -14,7 +14,7 @@ Once ngrok is setup create a sample spring boot app and run it in local and expo
 
 To run ngrok in local machine with basic auth use following command
 
-ngrok http 8080 --basic-auth '<username>:<password>'
+ngrok http 8080 --basic-auth 'username:password'
 
 Once its started successfully we can see following log.
 
@@ -35,7 +35,11 @@ https://cloud.google.com/apigee/docs/api-platform/get-started/eval-orgs
 
 https://www.youtube.com/watch?v=1hJ3S5O22KI
 
+## Create first Proxy in Apigee X
 
+To create new proxy follow below steps.
+  
+  
 
 
 
