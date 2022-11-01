@@ -39,9 +39,17 @@ https://www.youtube.com/watch?v=1hJ3S5O22KI
 
 To create new proxy follow below steps.
   
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199353979-38d321ee-84ab-40d2-a51e-96f373eafe6d.png)
+
+
+
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199354326-bcf90cfc-4c10-4c84-92b5-7cd446c9486f.png)
   
-
-
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199354458-c0bc67b7-7ce1-40d6-9059-d4e349716160.png)
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199354616-dcefee29-12d5-46e0-89d3-7c28751b54f1.png)
+  
 
 
 
