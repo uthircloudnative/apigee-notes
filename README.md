@@ -50,6 +50,23 @@ To create new proxy follow below steps.
   
   ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199354616-dcefee29-12d5-46e0-89d3-7c28751b54f1.png)
   
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199354887-73df9c05-ef05-437a-9d48-d5b3137df551.png)
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199355054-6b7b9d72-ec92-442d-8c52-9bb416e9c682.png)
+  
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199355233-2452f264-7aed-4d2f-bf3e-2889607eef1d.png)
+  
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199355315-e7262872-7979-4e28-b226-b9a5d1de7cca.png)
+  
+  
+  ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199355807-e62ed16a-306d-4935-98a7-87c7b2c716c2.png)
+  
+  
+  
+  
 
 
 
