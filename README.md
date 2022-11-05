@@ -81,6 +81,35 @@ To create new proxy follow below steps.
   
   ![CreateProxy!](https://user-images.githubusercontent.com/75495915/199355807-e62ed16a-306d-4935-98a7-87c7b2c716c2.png)
   
+## Apigee API concepts
+  
+  ### Developer
+  
+  A Developer is a App builder or group of App builders who will consume API's which is exposed via Apigee.
+  A developer is an internal or external entity who will consume exposed API's.
+  
+  Ex. A website/app Developer can use Google Analytics API to collect user interation information on the Website. 
+      In this case team or person owning the Website is Developer.
+  
+  ### Product
+  
+  A product is bundle of API's and its resources clubbed together and those API's in a product are given access
+  to specific Developer teams.
+  
+  When a company develop different API's and use those API's internally as well as expose to external partners.
+  In this case it can create 2 different Product bundling those API's in which internal team product can have
+  all the API's whereas external team Product bundle will have only specific API's. 
+  
+  These Product's then will be assigned with different API keys and shared between two different App development teams.
+  
+  ### Apps
+  
+  An App/Apps are API consumers. They will registered with an API providers organization and get API key specific 
+  to their API product upon registration. 
+  
+  
+  
+  
   
   
   
